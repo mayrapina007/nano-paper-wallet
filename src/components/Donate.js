@@ -5,7 +5,7 @@ class Donate extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            donate_public_key: "xrb_1b7bhxbz7n66iie8ygsde87ajoiyy38xbxi5zywsw8gncxhswso61191n1d4",
+            donate_public_key: "xrb_1x4r356aqwojhsmp17xw4yexawzapacmh9kz5o46617rnn45yne37g8zaby3",
         };
     }
 
