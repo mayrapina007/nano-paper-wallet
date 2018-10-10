@@ -7,6 +7,7 @@
     "ajv": "^6.5.4",
     "blake2b": "^2.1.2",
     "blakejs": "^1.1.0",
+    "debug-log": "^1.0.1",
     "gh-pages": "^1.1.0",
     "nanocurrency": "^2.0.4",
     "react": "^16.2.0",
