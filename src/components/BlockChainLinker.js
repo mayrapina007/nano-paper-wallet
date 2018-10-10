@@ -7,7 +7,7 @@ class BlockChainLinker extends Component {
         }
         return (
             <div>
-                <a href={'https://www.nanode.co/account/' + this.props.address} target="_blank">
+                <a href={'https://banano.meltingice.net/explorer/account/' + this.props.address} target="_blank">
                     Check this account balance on blockchain!
                 </a>
                 <br/>
