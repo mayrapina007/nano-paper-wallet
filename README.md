@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/TnPBuMt.png"/>
+<img src="https://i.imgur.com/BuHmEBi.jpg"/>
 
 ## Banano Paper Wallet Generator
 
