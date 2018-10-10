@@ -4,6 +4,7 @@
   "version": "3.1.1",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.4",
     "blake2b": "^2.1.2",
     "blakejs": "^1.1.0",
     "gh-pages": "^1.1.0",
